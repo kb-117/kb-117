@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kibret 👋
 
-<!--
-**kb-117/kb-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (MERN, Next.js) based in Addis Ababa, Ethiopia — currently building web apps remotely for a US digital agency, plus running freelance/consulting engagements end-to-end for clients I've mostly never met in person.
 
-Here are some ideas to get you started:
+- 🔭 Currently: Web Developer (Remote) at Tinova Agency, Maryland USA
+- 💼 IT consultant for Brana Biomedical Engineering & Technology PLC — website, internal ERP, and online presence
+- 🛠️ Also built a custom MERN management system for a dental clinic client
+- 🌱 Background in enterprise networking — Cisco CCNA (full series), Huawei, SolarWinds Orion NPM
+- 🌍 Open to remote roles worldwide — based in EAT (UTC+3)
+- 📫 Reach me at gueshkibret@gmail.com
+- 🔗 Portfolio & projects: [kb-117.github.io](https://kb-117.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** React · Next.js · Node.js · Express · NestJS · MongoDB · TypeScript · Tailwind CSS

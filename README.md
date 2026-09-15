@@ -8,6 +8,6 @@ Full-stack developer (MERN, Next.js) based in Addis Ababa, Ethiopia — currentl
 - 🌱 Background in enterprise networking — Cisco CCNA (full series), Huawei, SolarWinds Orion NPM
 - 🌍 Open to remote roles worldwide — based in EAT (UTC+3)
 - 📫 Reach me at gueshkibret@gmail.com
-- 🔗 Portfolio & projects: [kb-117.github.io](https://kb-117.github.io)
+- 🔗 Portfolio & projects: [kibret.me](https://kibret.me)
 
 **Stack:** React · Next.js · Node.js · Express · NestJS · MongoDB · TypeScript · Tailwind CSS

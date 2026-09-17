@@ -11,4 +11,4 @@ Full-stack developer based in Addis Ababa, Ethiopia — currently working remote
 -  Reach me at gueshkibret@gmail.com
 - 🔗 Portfolio & projects: [kibret.me](https://kibret.me)
 
-**Stack:** React · Next.js · Node.js · PostgreSQL · Prisma · MongoDB · TypeScript
+**Stack:** ExpressJS, React · Next.js · Node.js · PostgreSQL · Prisma · MongoDB · TypeScript

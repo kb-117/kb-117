@@ -7,8 +7,8 @@ Full-stack developer based in Addis Ababa, Ethiopia — currently working remote
 -  Built clinic management systems for dental clinic clients
 -  Also build and operate independent products — a barbershop management app and a point-of-sale system for a retail business
 -  Background in enterprise networking — Cisco CCNA (full series), Huawei, SolarWinds Orion NPM
--  Open to remote roles worldwide, any timezone
--  Reach me at gueshkibret@gmail.com
-- 🔗 Portfolio & projects: [kibret.me](https://kibret.me)
+-  Open to remote roles in any timezone, and to on-site work
+-  Reach me at [kibret@lomilab.dev](mailto:kibret@lomilab.dev)
+- 🔗 Studio & projects: [lomilab.dev](https://lomilab.dev)
 
 **Stack:** ExpressJS, React · Next.js · Node.js · PostgreSQL · Prisma · MongoDB · TypeScript
